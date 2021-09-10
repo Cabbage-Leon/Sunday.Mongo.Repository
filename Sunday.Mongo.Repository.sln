@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunday.Mongo.Repository", "src\Sunday.Mongo.Repository\Sunday.Mongo.Repository.csproj", "{D2F7D3AC-227F-4E37-9365-DC18C313B0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunday.Mongo.Repository.UnitTest", "src\Sunday.Mongo.Repository.UnitTest\Sunday.Mongo.Repository.UnitTest.csproj", "{8623D535-D39B-48FA-BBE6-A4873A537101}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{D3B60A9C-AEB0-445A-8D18-DF698F77A03B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F7D3AC-227F-4E37-9365-DC18C313B0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F7D3AC-227F-4E37-9365-DC18C313B0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F7D3AC-227F-4E37-9365-DC18C313B0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F7D3AC-227F-4E37-9365-DC18C313B0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8623D535-D39B-48FA-BBE6-A4873A537101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8623D535-D39B-48FA-BBE6-A4873A537101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8623D535-D39B-48FA-BBE6-A4873A537101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8623D535-D39B-48FA-BBE6-A4873A537101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {234C5188-37F9-4593-83F6-54ACEE659AB9}
+	EndGlobalSection
+EndGlobal
